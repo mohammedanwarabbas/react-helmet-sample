@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-helmet-sample/static/css/main.23efc441.css",
+    "main.js": "/react-helmet-sample/static/js/main.a448028e.js",
+    "static/js/592.e2b9f77d.chunk.js": "/react-helmet-sample/static/js/592.e2b9f77d.chunk.js",
+    "index.html": "/react-helmet-sample/index.html",
+    "main.23efc441.css.map": "/react-helmet-sample/static/css/main.23efc441.css.map",
+    "main.a448028e.js.map": "/react-helmet-sample/static/js/main.a448028e.js.map",
+    "592.e2b9f77d.chunk.js.map": "/react-helmet-sample/static/js/592.e2b9f77d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23efc441.css",
+    "static/js/main.a448028e.js"
+  ]
+}
